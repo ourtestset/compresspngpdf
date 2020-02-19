@@ -1,0 +1,9 @@
+PyPDF2
+opencv-python
+
+
+numpy
+matplotlib
+pandas
+sympy
+reportlab
